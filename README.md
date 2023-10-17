@@ -9,7 +9,7 @@ python version: 3.11.4
 pip install -r requirements.txt
 ```
 
-## how to run
+## how to run 001
 The only one requirement is an OpenAI API key.  
 
 001 is to write FizzBuzz code in python and run the generated code.  
@@ -26,3 +26,13 @@ Put the OpenAI API key into `.env` file.
 ```zsh
 python app.py
 ```
+
+## how to run 002
+Install [LM Studio](https://lmstudio.ai/) and download a model.  
+After downloading the model, start local server.  
+
+```zsh
+cd 002 && python app.py
+```
+
+

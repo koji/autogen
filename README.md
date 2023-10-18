@@ -6,8 +6,9 @@ python version 3.11.4
 
 
 ## how to run
-The only one requirement is an OpenAI API key.
+The only one requirement is an OpenAI API key.  
 
+001 is to write FizzBuzz code in python and run the generated code.  
 ```zsh
 cd 001 && pip install -r requirements.txt
 ```

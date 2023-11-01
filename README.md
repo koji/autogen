@@ -27,6 +27,9 @@ Put the OpenAI API key into `.env` file.
 python app.py
 ```
 
+medium
+https://koji-kanao.medium.com/fizzbuzz-with-autogen-fb1a234f6588
+
 ## how to run 002
 Install [LM Studio](https://lmstudio.ai/) and download a model.  
 After downloading the model, start local server.  
